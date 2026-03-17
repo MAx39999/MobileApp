@@ -1,0 +1,2 @@
+com.mirea.burukinmy.layouttype
+string app_name

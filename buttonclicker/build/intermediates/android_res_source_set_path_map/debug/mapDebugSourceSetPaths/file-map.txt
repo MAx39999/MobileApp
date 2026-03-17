@@ -1,0 +1,7 @@
+com.mirea.burukinmy.buttonclicker-pngs-0 /home/max/AndroidStudioProjects/MyApplication2/buttonclicker/build/generated/res/pngs/debug
+com.mirea.burukinmy.buttonclicker-updated_navigation_xml-1 /home/max/AndroidStudioProjects/MyApplication2/buttonclicker/build/generated/updated_navigation_xml/debug
+com.mirea.burukinmy.buttonclicker-packageDebugResources-2 /home/max/AndroidStudioProjects/MyApplication2/buttonclicker/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.mirea.burukinmy.buttonclicker-packageDebugResources-3 /home/max/AndroidStudioProjects/MyApplication2/buttonclicker/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.mirea.burukinmy.buttonclicker-debug-4 /home/max/AndroidStudioProjects/MyApplication2/buttonclicker/build/intermediates/merged_res/debug/mergeDebugResources
+com.mirea.burukinmy.buttonclicker-debug-5 /home/max/AndroidStudioProjects/MyApplication2/buttonclicker/src/debug/res
+com.mirea.burukinmy.buttonclicker-main-6 /home/max/AndroidStudioProjects/MyApplication2/buttonclicker/src/main/res

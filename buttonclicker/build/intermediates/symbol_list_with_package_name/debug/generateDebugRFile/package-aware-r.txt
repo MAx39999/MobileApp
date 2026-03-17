@@ -1,0 +1,2 @@
+com.mirea.burukinmy.buttonclicker
+string app_name
