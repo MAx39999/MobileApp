@@ -1,2 +1,0 @@
-com.mirea.burukinmy.control_lesson1
-string app_name

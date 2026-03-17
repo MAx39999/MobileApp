@@ -1,7 +1,0 @@
-com.mirea.burukinmy.layouttype-pngs-0 /home/max/AndroidStudioProjects/MyApplication2/layouttype/build/generated/res/pngs/debug
-com.mirea.burukinmy.layouttype-updated_navigation_xml-1 /home/max/AndroidStudioProjects/MyApplication2/layouttype/build/generated/updated_navigation_xml/debug
-com.mirea.burukinmy.layouttype-packageDebugResources-2 /home/max/AndroidStudioProjects/MyApplication2/layouttype/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.mirea.burukinmy.layouttype-packageDebugResources-3 /home/max/AndroidStudioProjects/MyApplication2/layouttype/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.mirea.burukinmy.layouttype-debug-4 /home/max/AndroidStudioProjects/MyApplication2/layouttype/build/intermediates/merged_res/debug/mergeDebugResources
-com.mirea.burukinmy.layouttype-debug-5 /home/max/AndroidStudioProjects/MyApplication2/layouttype/src/debug/res
-com.mirea.burukinmy.layouttype-main-6 /home/max/AndroidStudioProjects/MyApplication2/layouttype/src/main/res
